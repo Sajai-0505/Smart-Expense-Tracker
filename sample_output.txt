@@ -1,0 +1,63 @@
+SMART EXPENSE TRACKER
+=====================
+
+1. ADD EXPENSE
+
+Enter your choice: 1
+
+Enter date (YYYY-MM-DD): 2026-10-29
+
+Categories:
+1. Food
+2. Travel
+3. Education
+4. Shopping
+5. Bills
+6. Health
+7. Other
+
+Choose category: 1
+Enter description: Lunch
+Enter amount: 120
+
+Expense added successfully!
+
+
+2. ADD ANOTHER EXPENSE
+
+Enter date: 2026-10-29
+Choose category: 2
+Enter description: Bus fare
+Enter amount: 40
+
+Expense added successfully!
+
+
+3. VIEW EXPENSES
+
+No.  Date         Category    Description    Amount
+
+1    2026-10-29   Food        Lunch          120.00
+2    2026-10-29   Travel      Bus fare        40.00
+
+Total Expenses: Rs.160.00
+
+
+4. MONTHLY SUMMARY
+
+Enter month: 2026-10
+
+Month: 2026-10
+Transactions: 2
+Total Spent: Rs.160.00
+
+
+5. CATEGORY SUMMARY
+
+Food: Rs.120.00 (75.0%)
+Travel: Rs.40.00 (25.0%)
+
+
+6. EXIT
+
+Thank you for using Smart Expense Tracker!
