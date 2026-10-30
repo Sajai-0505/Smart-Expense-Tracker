@@ -72,4 +72,6 @@ python main.py
 
 ## Author
 
-Developed as a student programming project.
+
+**Sajai S**  
+Electronics and Communication Engineering Student
